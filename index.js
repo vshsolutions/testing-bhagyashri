@@ -1,2 +1,4 @@
-console.log('my-assignment-1')
-index
+
+
+console.log('my-assignment-1');
+
